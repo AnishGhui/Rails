@@ -1,3 +1,4 @@
+# Nice to see you trying ActiveStorage! You don't need ActiveStorage when you use CarrierWave, but if you are interested, you can try to replace CarrierWave with ActiveStorage.
 # This migration comes from active_storage (originally 20170806125915)
 class CreateActiveStorageTables < ActiveRecord::Migration[5.2]
   def change
